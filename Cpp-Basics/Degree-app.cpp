@@ -22,6 +22,6 @@ int main(){
          else cout <<"Your degree is F\n";
 
     }
-
+    
     return 0;
 }
